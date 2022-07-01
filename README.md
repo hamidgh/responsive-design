@@ -1,6 +1,6 @@
 # Responsive Design - Media Query
 
-You can watch step by step of this tutorial from this link [YouTube Video](hhttps://youtu.be/u6bhgo536-w).
+You can watch step by step of this tutorial from this link [YouTube Video](https://youtu.be/u6bhgo536-w).
 
 ## useful links that were used in tutorial
 1- [Media Query documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
